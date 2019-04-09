@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JulioCesarCryptographyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-04-09T11:57:17" hostname="NZ.local" time="0.093">
+  <properties/>
+  <testcase name="TresCasas()" classname="JulioCesarCryptographyTest" time="0.024"/>
+  <testcase name="wxyz_xyza_27()" classname="JulioCesarCryptographyTest" time="0.002"/>
+  <testcase name="wxyz_xyza_30()" classname="JulioCesarCryptographyTest" time="0.005"/>
+  <testcase name="abc_bdd()" classname="JulioCesarCryptographyTest" time="0.004"/>
+  <testcase name="ComCaracterEspecial()" classname="JulioCesarCryptographyTest" time="0.004"/>
+  <testcase name="asdf_bteg()" classname="JulioCesarCryptographyTest" time="0.007"/>
+  <testcase name="wxyz_xyza()" classname="JulioCesarCryptographyTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
